@@ -1,0 +1,56 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "news": [
+    {
+      "id": 1,
+      "title": "数据结构之队列的应用-编写病人看病模拟程序(C/C++实现)",
+      "content":"数据结构之队列的应用-模拟病人排队就诊小程序（C/C++实现）实验目的：掌握队列应用和算法设计实验内容：编",
+      "imgurl":"1",
+      "author": "云风清"
+    },
+    {
+      "id": 2,
+      "title": "Web测试中，各类web空间测试点总结(功能、性能、安全)",
+      "content":"一、界面检查　　进入一个页面测试，首先是检查title，页面排版，字段等，而不是马上进入文本框校验1、页面名",
+      "imgurl":"2",
+      "author": "云风蓝"
+    },
+    {
+      "id": 3,
+      "title": "从零开始手写Tomcat,一文彻底搞懂Tomcat运行流程（付源码）",
+      "content":"一：理论铺垫tomcat的功能是什么？tomcat是java的一个中间件，浏览器发出HTTP请求后经过tomcat中间件，转",
+      "imgurl":"3",
+      "author": "云风绿"
+    },
+    {
+      "id": 4,
+      "title": "堪比ajax的高频请求和响应新方式————fetch（前端分页项目应用）",
+      "content":"又是一周最好时…周末了，聊点轻松的话题：一周的总结与复习。早上看到以前的笔记，突然看到了fetch，当时就",
+      "imgurl":"4",
+      "author": "云风蓝"
+    },
+    {
+      "id": 5,
+      "title": "用Python解数独(Sudoku)",
+      "content":"芬兰数学家因卡拉花费3个月时间设计出的世界上迄今难度最大的数独。数独是9横9竖共有81个格子，同时又分为9",
+      "imgurl":"5",
+      "author": "云风黄"
+    }
+  ]
+}
